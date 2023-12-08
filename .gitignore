@@ -1,0 +1,25 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build Output
+*.exe
+*.dll
+*.dylib
+*.so
+*.app
+
+# Crash Reports
+Crashes/
+
+# User Specific
+*.suo
+*.user
+*.userprefs
+*.log
+*.opensdf
+*.sdf
+*.opendb
+*.VC.db
